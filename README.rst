@@ -1,8 +1,7 @@
 nixpkgs-mozilla
 ===============
 
-Gathering nix efforts in one repository.
-
+Fixed nixpkgs-mozilla. All credits goes to github.com/mozilla/nixpkgs-mozilla.
 
 Current packages
 ----------------
